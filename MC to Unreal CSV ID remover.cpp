@@ -62,5 +62,7 @@ int main(int argc, char* argv[]) {
         outfile << line << endl;
     }
 
+    cout << "Done." << endl;
+
     return 0;
 }
